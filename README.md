@@ -12,7 +12,7 @@
 <div>
   <h3>Hard Skills:</h3>
 
-  <div style="display:flex;">
+  <div style="display: flex;">
     <p>
     <img
       width="40"
