@@ -121,6 +121,12 @@
 </div>
 
 <div>
+    <h3>CodeWars:</h3>
+  <a
+    href="https://www.codewars.com/users/arimoncaojr"
+    ><img
+      src="https://www.codewars.com/users/arimoncaojr/badges/small"
+    /></a>
     <h3>Higher Courser:</h3>
     <p>- Secretariat</p>
     <p>- IT Management (Training)</p>
