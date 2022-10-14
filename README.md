@@ -8,10 +8,10 @@
   I'm currently a front-end developer, and until May/2023 I'll be Full Stack!
 </h3>
 
-<div>
+<div div style="display: flex; flex-direction: column;">
   <h3>Hard Skills:</h3>
 
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; align-items: center;">
     <p>
     <img
       width="40"
