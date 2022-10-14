@@ -55,7 +55,6 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true)
-![Snake animation](https://github.com/seu-usuário-aqui/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
 
 <a
     href="https://www.codewars.com/users/arimoncaojr"
