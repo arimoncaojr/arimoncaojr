@@ -56,6 +56,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arimoncaojr&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/arimoncaojr/github-readme-stats)
 
 <a
     href="https://www.codewars.com/users/arimoncaojr"
