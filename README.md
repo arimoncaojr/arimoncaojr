@@ -126,5 +126,5 @@
     <p>- IT Management (Training)</p>
     <h3>Languages</h3>
     <p>- Portuguese (Native)</p>
-    <p>- English(Basic)</p>
+    <p>- English (Basic but training)</p>
 </div>
