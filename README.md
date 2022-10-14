@@ -69,7 +69,7 @@
   <p>- Positive attitude</p>
   <p>- Empathy</p>
   <p>- Proactivity</p>
-  <p>- Communication</p>
+  <p>- Good Communication</p>
 </div>
 <div>
   <h3>Main projects executed:</h3>
