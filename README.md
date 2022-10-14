@@ -56,11 +56,11 @@
 <div>
   <h3>Soft Skills:</h3>
 
-  <p>- Perfectionist</p>
-  <p>- Punctual</p>
-  <p>- Outgoing</p>
-  <p>- Sociable</p>
-  <p>- Polite</p>
+  <p>- Ethics at Work</p>
+  <p>- Positive attitude</p>
+  <p>- Empathy</p>
+  <p>- Proactivity</p>
+  <p>- Communication</p>
 </div>
 
 <div>
