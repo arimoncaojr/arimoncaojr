@@ -12,45 +12,45 @@
   <h3>Hard Skills:</h3>
 
   <div style="display: flex; align-items: center;">
-    <p>
+   
     <img
       width="40"
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
     />
-  </p>
+  
 
-  <p>
+  
     <img
       width="40"
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
     />
-  </p>
+  
 
-  <p>
+ 
     <img
       width="40"
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
-  </p>
+  
 
-  <p>
+  
     <img
       width="40"
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
     />
-  </p>
+  
 
-  <p>
+  
     <img
       width="40"
       height="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
     />
-  </p>
+  
   </div>
 </div>
 
