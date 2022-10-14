@@ -11,8 +11,7 @@
 <div div style="display: flex; flex-direction: column;">
   <h3>Hard Skills:</h3>
 
-  <div style="display: flex; align-items: center;">
-   
+  <div>   
     <img
       width="40"
       height="40"
