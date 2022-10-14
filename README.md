@@ -12,7 +12,7 @@
 <div>
   <h3>Hard Skills:</h3>
 
-  <div style="display: inline;">
+  <div>
     <p>
     <img
       width="40"
