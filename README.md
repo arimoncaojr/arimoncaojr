@@ -117,5 +117,12 @@
   </p>
 </div>
 
-### Higher Courses: - Secretariat - IT Management (training) ### Languages:
--Portuguese (Native) -English (Basic)
+<div>
+    <h3>Higher Courser:</h3>
+    <p>- Secretariat</p>
+    <p>- IT Management (Training)</p>
+
+    <h3>Languages</h3>
+    <p>- Portuguese (Native)</p>
+    <p>- English(Basic)</p>
+</div>
