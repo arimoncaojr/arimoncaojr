@@ -53,7 +53,7 @@
   </p>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr)
 
 <div>
   <h3>Soft Skills:</h3>
