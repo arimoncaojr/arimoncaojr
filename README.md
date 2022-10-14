@@ -7,7 +7,9 @@
 ### Hard Skills:
 
 - HTML (Advanced)
-- CSS (Advanced)
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+           CSS (Advanced)
 - Javascript (Advanced)
 - React.js (Intermediate)
 - Git (Intermediate)
