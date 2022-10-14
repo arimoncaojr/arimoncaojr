@@ -11,7 +11,7 @@
 <div>
   <h3>Hard Skills:</h3>
 
-  <div>
+  <div style="display: flex; align-items: flex-start;">
     <p>
     <img
       width="40"
