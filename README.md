@@ -1,6 +1,6 @@
 <h1> Welcome to my profile! </h1>
 
-<h2 My name is Ariosvaldo Rodrigues Monção Júnior (but can call me Ari), I live in Teresina - PI, the city where there is a sun for every inhabitant. </h2>
+<h2> My name is Ariosvaldo Rodrigues Monção Júnior (but can call me Ari), I live in Teresina - PI, the city where there is a sun for every inhabitant. </h2>
 
 <h3> I'm currently a front-end developer, and until May/2023 I'll be Full Stack! </h3>
 
