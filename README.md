@@ -57,6 +57,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true)
 
+<a
+    href="https://www.codewars.com/users/arimoncaojr"
+    ><img
+      src="https://www.codewars.com/users/arimoncaojr/badges/small"
+    /></a>
+
 <div>
   <h3>Soft Skills:</h3>
 
@@ -121,12 +127,6 @@
 </div>
 
 <div>
-    <h3>CodeWars:</h3>
-  <a
-    href="https://www.codewars.com/users/arimoncaojr"
-    ><img
-      src="https://www.codewars.com/users/arimoncaojr/badges/small"
-    /></a>
     <h3>Higher Courser:</h3>
     <p>- Secretariat</p>
     <p>- IT Management (Training)</p>
