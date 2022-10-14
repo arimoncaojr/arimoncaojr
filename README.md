@@ -12,7 +12,8 @@
 <div>
   <h3>Hard Skills:</h3>
 
-  <p>
+  <div display="flex" gap="1rem" align-content="center">
+    <p>
     <img
       width="40"
       height="40"
@@ -51,6 +52,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
     />
   </p>
+  </div>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple)
