@@ -1,26 +1,38 @@
 <h1> Welcome to my profile! </h1>
 
-### My name is Ariosvaldo Rodrigues Monção Júnior (but can call me Ari), I live in Teresina - PI, the city where there is a sun for every inhabitant.
+<h2 My name is Ariosvaldo Rodrigues Monção Júnior (but can call me Ari), I live in Teresina - PI, the city where there is a sun for every inhabitant. </h2>
 
-### I'm currently a front-end developer, and until May/2023 I'll be Full Stack!
+<h3> I'm currently a front-end developer, and until May/2023 I'll be Full Stack! </h3>
 
-### Hard Skills:
 
-- HTML (Advanced)
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-           CSS (Advanced)
-- Javascript (Advanced)
-- React.js (Intermediate)
-- Git (Intermediate)
+<div>
 
-### Soft Skills:
- - Perfectionist
- - Punctual 
- - Outgoing 
- - Sociable
- - Polite
+<h3>Hard Skills:</h3>
 
+<p><img src="httdivs://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> (Advanced)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> (Advanced)</p>
+          
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> (Advanced)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />(Intermediate)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />(Intermediate)</p>
+
+</div>
+
+<div>
+
+<h3>Soft Skills:</h3>
+
+ <p>- Perfectionist</p>
+ <p>- Punctual </p>
+ <p>- Outgoing </p>
+ <p>- Sociable</p>
+ <p>- Polite</p>
+
+</div>
 
 ### Main projects executed:
 
@@ -55,17 +67,3 @@
 ### Languages:
 -Portuguese (Native)
 -English (Basic)
-<!--
-**arimoncaojr/arimoncaojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
