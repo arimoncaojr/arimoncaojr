@@ -134,4 +134,4 @@
     <p>- English (Basic but training)</p>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arimoncaojr/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
