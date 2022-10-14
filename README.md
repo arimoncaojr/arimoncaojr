@@ -133,3 +133,4 @@
     <p>- Portuguese (Native)</p>
     <p>- English (Basic but training)</p>
 </div>
+![Snake animation](https://github.com/seu-usuário-aqui/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
