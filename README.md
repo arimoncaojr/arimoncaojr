@@ -2,7 +2,7 @@
 
 <h2>
   My name is Ariosvaldo Rodrigues Monção Júnior (but can call me Ari), I live in
-  Teresina - PI, the city where there is a sun for every inhabitant.
+  Teresina - PI, Brazil, the city where there is a sun for every inhabitant.
 </h2>
 
 <h3>
