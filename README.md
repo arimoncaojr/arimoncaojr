@@ -53,6 +53,8 @@
   </p>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&hide=contribs,prs)
+
 <div>
   <h3>Soft Skills:</h3>
 
