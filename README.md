@@ -1,10 +1,3 @@
-        <style>
-            .container .box {
-               display : flex;
-              gap: 1rem;
-               
-            }
-        </style>
 <h1>Welcome to my profile!</h1>
 
 <h2>
@@ -19,7 +12,7 @@
 <div>
   <h3>Hard Skills:</h3>
 
-  <div class="container">
+  <div display="flex">
     <p>
     <img
       width="40"
