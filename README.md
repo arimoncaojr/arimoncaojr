@@ -132,7 +132,7 @@
     <p>- IT Management (Training)</p>
     <h3>Languages</h3>
     <p>- Portuguese (Native)</p>
-    <p>- English (Basic but training)</p>
+    <p>- English (Intermediary but training)</p>
 </div>
 
 ![Snake animation](https://github.com/arimoncaojr/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
