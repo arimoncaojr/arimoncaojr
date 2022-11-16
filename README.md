@@ -81,6 +81,9 @@
 </div>
 <div>
   <h3>Main projects executed:</h3>
+ 
+ <a href="https://port-geek-main.vercel.app/"
+    >Port Geek</a>
 
   <a href="https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/"
     >Kenzie Hub</a>
@@ -91,39 +94,6 @@
 
   <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/"
     >Nu Kenzie</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-projeto-individual-arimoncaojr/"
-    >To Work</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-criando-menu-responsivo-arimoncaojr/"
-    >Responsive Menu</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-pagina-de-login-arimoncaojr/"
-    >Login Page</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-blog-m2-caioalcarria/"
-    >Blog M2</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-lista-de-clientes-arimoncaojr/"
-    >Client List</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m2-entrega-kenzie-news-arimoncaojr/"
-    >Kenzie News</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/entrega-lista-produtos-m2-sprint-1b-arimoncaojr/"
-    >Product List</a>
-
-  <a
-    href="https://kenzie-academy-brasil-developers.github.io/m1-entrega-capstone-ecommerce-arimoncaojr/"
-    >Capstone M1 Kenzie</a>
-
   <p>
     <em
       >*A curiosity about these projects is that if you check from the last to
