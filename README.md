@@ -94,13 +94,6 @@
 
   <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/"
     >Nu Kenzie</a>
-  <p>
-    <em
-      >*A curiosity about these projects is that if you check from the last to
-      the first, you will be able to get a sense of my evolution as a Front-end
-      Developer.</em
-    >
-  </p>
 </div>
 
 <div>
