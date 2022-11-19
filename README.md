@@ -97,7 +97,7 @@
 </div>
 
 <div>
-    <h3>Higher Courser:</h3>
+    <h3>Higher School:</h3>
     <p>- Secretariat</p>
     <p>- IT Management (Training)</p>
     <h3>Languages</h3>
