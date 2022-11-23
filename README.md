@@ -82,7 +82,7 @@
 <div>
   <h3>Main projects executed:</h3>
  
- <a href="https://port-geek-main.vercel.app/"
+ <a href="https://port-geek.vercel.app/"
     >Port Geek</a>
 
   <a href="https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/"
