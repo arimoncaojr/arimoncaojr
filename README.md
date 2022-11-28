@@ -94,7 +94,9 @@
 
   <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/"
     >Nu Kenzie</a>
-  <a href="https://atividade-s2-07.vercel.app/">Rick&Morty</a>
+
+  <a href="https://atividade-s2-07.vercel.app/"
+    >Rick&Morty</a>
 </div>
 
 <div>
