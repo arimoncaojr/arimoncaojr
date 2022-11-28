@@ -82,20 +82,20 @@
 <div>
   <h3>Main projects executed:</h3>
  
- <a href="https://port-geek.vercel.app/"
+ <a href="https://port-geek.vercel.app/" target="_blank"
     >Port Geek</a>
 
-  <a href="https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/"
+  <a href="https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/" target="_blank"
     >Kenzie Hub</a>
 
   <a
-    href="https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/"
+    href="https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/" target="_blank"
     >Burguer Kenzie</a>
 
-  <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/"
+  <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/" target="_blank"
     >Nu Kenzie</a>
 
-  <a href="https://atividade-s2-07.vercel.app/"
+  <a href="https://atividade-s2-07.vercel.app/" target="_blank"
     >Rick&Morty</a>
 </div>
 
