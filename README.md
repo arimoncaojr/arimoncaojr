@@ -1,111 +1,45 @@
-<h1>Welcome to my profile!</h1>
+# Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2>
- My name is <strong style="color: purple">Ariosvaldo Rodrigues Monção Júnior</strong> (but can call me Ari), I live in Teresina , a city in Brazil where there is a sun for every inhabitant.
-</h2>
+## My name is Ariosvaldo Rodrigues Monção Júnior (but you can call me Ari), I live in Teresina, a city in Brazil where there is a sun for every inhabitant.
 
-<h3>
-  I'm currently a front-end developer, and until May/2023 I'll be Full Stack!
-</h3>
+### I'm currently a front-end developer, and until May/2023 I'll be Full Stack!
 
-<div div style="display: flex; flex-direction: column;">
-  <h3>Hard Skills:</h3>
-
-  <div>   
-   <p>
-    <img
-      width="40"
-      height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
-    />
-  </p>
-
-  <p>
-    <img
-      width="40"
-      height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-    />
-  </p>
-
-  <p>
-    <img
-      width="40"
-      height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-    />
-  </p>
-
-  <p>
-    <img
-      width="40"
-      height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
-    />
-  </p>
-
-  <p>
-    <img
-      width="40"
-      height="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
-    />
-  </p>
-   
-   <p>
-    <img
-      width="40"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
-    />
-  </p>
-  </div>
-</div>
+## Hard Skills:
+<p align="left">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true)
 
-<a
-    href="https://www.codewars.com/users/arimoncaojr"
-    ><img
-      src="https://www.codewars.com/users/arimoncaojr/badges/small"
-    /></a>
+[![Ari's Codewars Badge](https://www.codewars.com/users/arimoncaojr/badges/small)](https://www.codewars.com/users/arimoncaojr)
 
-<div>
-  <h3>Soft Skills:</h3>
+## Soft Skills:
+- Ethics at Work
+- Positive attitude
+- Empathy
+- Proactivity
+- Good Communication
 
-  <p>- Ethics at Work</p>
-  <p>- Positive attitude</p>
-  <p>- Empathy</p>
-  <p>- Proactivity</p>
-  <p>- Good Communication</p>
-</div>
-<div>
-  <h3>Main projects executed:</h3>
- 
- <a href="https://port-geek.vercel.app/" target="_blank"
-    >Port Geek</a>
+## Main projects executed:
+- [Port Geek](https://port-geek.vercel.app/)
+- [Kenzie Hub](https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/)
+- [Burguer Kenzie](https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/)
+- [Nu Kenzie](https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/)
+- [Rick&Morty](https://atividade-s2-07.vercel.app/)
 
-  <a href="https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/" target="_blank"
-    >Kenzie Hub</a>
+## Higher Education:
+- Secretariat
+- IT Management (Training)
 
-  <a
-    href="https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/" target="_blank"
-    >Burguer Kenzie</a>
-
-  <a href="https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/" target="_blank"
-    >Nu Kenzie</a>
-
-  <a href="https://atividade-s2-07.vercel.app/" target="_blank"
-    >Rick&Morty</a>
-</div>
-
-<div>
-    <h3>Higher Education:</h3>
-    <p>- Secretariat</p>
-    <p>- IT Management (Training)</p>
-    <h3>Languages</h3>
-    <p>- Portuguese (Native)</p>
-    <p>- English (Intermediary but training)</p>
-</div>
+## Languages:
+- Portuguese (Native)
+- English (Intermediate but training)
 
 ![Snake animation](https://github.com/arimoncaojr/arimoncaojr/blob/output/github-contribution-grid-snake.svg)
