@@ -42,7 +42,7 @@
 
 ### Full Stack:
 - Challenge Full Stack
-  - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimonca
+  - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimoncaojr)
   - [Front-end](https://github.com/arimoncaojr/desafio-full-stack-front-end-arimoncaojr)
 
 ## Higher Education:
