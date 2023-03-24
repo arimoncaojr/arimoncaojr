@@ -17,9 +17,9 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true){:target="_blank"}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoncaojr&count_private=true&theme=midnight-purple&show_icons=true)
 
-[![Ari's Codewars Badge](https://www.codewars.com/users/arimoncaojr/badges/small)](https://www.codewars.com/users/arimoncaojr){:target="_blank"}
+[![Ari's Codewars Badge](https://www.codewars.com/users/arimoncaojr/badges/small)](https://www.codewars.com/users/arimoncaojr)
 
 ## Soft Skills:
 - Ethics at Work
@@ -30,20 +30,20 @@
 
 ## Main projects executed:
 ### Front-end:
-- [Port Geek](https://port-geek.vercel.app/){:target="_blank"}
-- [Kenzie Hub](https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/){:target="_blank"}
-- [Burguer Kenzie](https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/){:target="_blank"}
-- [Nu Kenzie](https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/){:target="_blank"}
-- [Rick&Morty](https://atividade-s2-07.vercel.app/){:target="_blank"}
+- [Port Geek](https://port-geek.vercel.app/)
+- [Kenzie Hub](https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/)
+- [Burguer Kenzie](https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/)
+- [Nu Kenzie](https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/)
+- [Rick&Morty](https://atividade-s2-07.vercel.app/)
 
 ### Back-end:
-- [Fast E-commerce](https://github.com/m4-pf-node-jardel-04/Fast-Ecommerce){:target="_blank"}
-- [BiblioteKA](https://github.com/BiblioteKa-M5-group18/Biblioteka-M5){:target="_blank"}
+- [Fast E-commerce](https://github.com/m4-pf-node-jardel-04/Fast-Ecommerce)
+- [BiblioteKA](https://github.com/BiblioteKa-M5-group18/Biblioteka-M5)
 
 ### Full Stack:
 - Challenge Full Stack
-  - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimoncaojr){:target="_blank"}
-  - [Front-end](https://github.com/arimoncaojr/desafio-full-stack-front-end-arimoncaojr){:target="_blank"}
+  - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimoncaojr)
+  - [Front-end](https://github.com/arimoncaojr/desafio-full-stack-front-end-arimoncaojr)
 
 ## Higher Education:
 - Secretariat
