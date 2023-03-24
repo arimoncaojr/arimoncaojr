@@ -29,11 +29,21 @@
 - Good Communication
 
 ## Main projects executed:
+### Front-end:
 - [Port Geek](https://port-geek.vercel.app/)
 - [Kenzie Hub](https://react-entrega-kenzie-hub-arimoncaojr.vercel.app/)
 - [Burguer Kenzie](https://react-entrega-hamburgueria-da-kenzie-arimoncaojr-arimoncaojr.vercel.app/)
 - [Nu Kenzie](https://react-entrega-s1-nu-kenzie-arimoncaojr.vercel.app/)
 - [Rick&Morty](https://atividade-s2-07.vercel.app/)
+
+### Back-end:
+- [Fast E-commerce](https://github.com/m4-pf-node-jardel-04/Fast-Ecommerce)
+- [BiblioteKA](https://github.com/BiblioteKa-M5-group18/Biblioteka-M5)
+
+### Full Stack:
+- Challenge Full Stack
+  - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimonca
+  - [Front-end](https://github.com/arimoncaojr/desafio-full-stack-front-end-arimoncaojr)
 
 ## Higher Education:
 - Secretariat
