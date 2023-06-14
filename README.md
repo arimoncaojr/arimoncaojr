@@ -2,7 +2,7 @@
 
 ## My name is Ariosvaldo Rodrigues Monção Júnior (but you can call me Ari), I live in Teresina, a city in Brazil where there is a sun for every inhabitant.
 
-### I'm currently a front-end developer, and until May/2023 I'll be Full Stack!
+### I'm currently a Full Stack developer!
 
 ## Hard Skills:
 <p align="left">
@@ -44,6 +44,9 @@
 - Challenge Full Stack
   - [Back-end](https://github.com/arimoncaojr/desafio-fullstack-back-end-arimoncaojr)
   - [Front-end](https://github.com/arimoncaojr/desafio-full-stack-front-end-arimoncaojr)
+- Motors Shop
+  - [Back-end](https://github.com/arimoncaojr/projeto-final-m6-front-end)
+  - [Front-end](https://github.com/arimoncaojr/projeto-final-m6-back-end)
 
 ## Higher Education:
 - Secretariat
